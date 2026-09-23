@@ -316,6 +316,8 @@ location-based information, and intelligent data processing.
 
 </details>
 
+---
+
 ## 🔐 Cryptography
 
 <details>
