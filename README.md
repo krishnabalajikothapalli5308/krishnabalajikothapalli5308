@@ -282,6 +282,40 @@ A full-stack web application for managing **appliance maintenance records, servi
 
 ---
 
+---
+
+<details>
+
+<summary><b>🌾 AnnadataAI — AI-Powered Smart Agriculture Assistant</b></summary>
+
+### Overview
+
+An AI-powered smart agriculture application designed to assist farmers with
+crop recommendations and agricultural decision support using machine learning,
+location-based information, and intelligent data processing.
+
+### Tech Stack
+
+`Python` • `Flutter` • `Flask` • `Machine Learning` • `REST APIs`
+
+### Key Features
+
+- 🌱 Crop Recommendation
+- 🤖 AI/ML-Based Agricultural Assistance
+- 📍 Location-Based Information
+- 🌦️ Weather Integration
+- 🎤 Voice-Based Interaction
+- 📄 Agricultural Report Processing
+- 📊 Data-Driven Decision Support
+
+<p>
+<a href="https://github.com/krishnabalajikothapalli5308/AnnadataAI">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</details>
+
 ## 🔐 Cryptography
 
 <details>
@@ -393,28 +427,20 @@ Developed experience in:
 * Leadership
 * Communication
 * Team collaboration
-
----
-
-## 🎥 The Web3Engineer
-
-Content creator under the brand **The Web3Engineer (@TheWeb3Engineer)**.
-
-Creates educational content covering **blockchain development concepts** for computer science students through YouTube.
-
 ---
 
 # 📊 Project Highlights
 
-| Category           | Focus                           |
-| ------------------ | ------------------------------- |
-| 🤖 AI              | Voice-enabled conversational AI |
-| ⚙️ Backend         | Flask & REST APIs               |
-| 🌐 Web Development | Full-stack applications         |
-| 🔐 Cryptography    | 10 cryptographic algorithms     |
-| 🗄️ Databases      | MySQL & SQL                     |
-| 📱 Development     | Flutter & Dart                  |
-| 🧠 ML              | TensorFlow & Scikit-learn       |
+| Category | Focus |
+|-----------|-------|
+| 🌾 AI Agriculture | AnnadataAI Smart Agriculture Assistant |
+| 🤖 AI | Voice-enabled conversational AI |
+| ⚙️ Backend | Flask & REST APIs |
+| 🌐 Web Development | Full-stack applications |
+| 🔐 Cryptography | 10 cryptographic algorithms |
+| 🗄️ Databases | MySQL & SQL |
+| 📱 Development | Flutter & Dart |
+| 🧠 ML | TensorFlow & Scikit-learn |
 
 ---
 
