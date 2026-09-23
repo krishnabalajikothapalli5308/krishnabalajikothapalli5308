@@ -282,8 +282,6 @@ A full-stack web application for managing **appliance maintenance records, servi
 
 ---
 
----
-
 <details>
 
 <summary><b>🌾 AnnadataAI — AI-Powered Smart Agriculture Assistant</b></summary>
