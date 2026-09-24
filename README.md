@@ -363,15 +363,6 @@ Completed practical modules covering **ServiceNow Administration, Agentic AI, Au
 
 ---
 
-# 🏆 Hackathons & Technical Activities
-
-* 🎯 Participated in college hackathons
-* 💻 Participated in coding contests
-* 🧠 Participated in technical fests
-* 🚀 Continuously developing software engineering and problem-solving skills
-
----
-
 # 📚 Certifications
 
 ## Professional Certifications
