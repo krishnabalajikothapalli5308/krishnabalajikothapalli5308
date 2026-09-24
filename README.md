@@ -221,27 +221,29 @@ Through internships and projects, I've gained hands-on experience with **Python,
 
 <details open>
 
-<summary><b>🎙️ Voice-Enabled Conversational AI Agent</b></summary>
+<summary><b>🌾 AnnadataAI — AI-Powered Smart Agriculture Assistant</b></summary>
+
+
 
 ### Overview
 
-An end-to-end conversational AI application integrating **Speech-to-Text, LLM-based response generation, and Text-to-Speech** into a single voice-enabled pipeline.
+An AI/ML-powered agriculture application focused on data-driven agricultural
+decision-making and potato price prediction using real agricultural market data.
 
 ### Tech Stack
 
-`Python` • `LLM APIs` • `Speech Processing` • `Text-to-Speech`
+`Python` • `Pandas` • `Scikit-learn` • `Streamlit` • `Machine Learning`
 
 ### Key Features
 
-* 🎤 Speech-to-Text
-* 💬 LLM-based Responses
-* 🔊 Text-to-Speech
-* 🧠 Conversation Context Management
-* ⚡ Latency Control
-* 🛡️ API Error Recovery
+- 📊 Agricultural market data processing
+- 🥔 Potato price prediction
+- 🤖 Machine learning prediction pipeline
+- 📈 Data-driven agricultural insights
+- 🌐 Interactive Streamlit application
 
 <p>
-<a href="https://github.com/krishnabalajikothapalli5308/voice-llm-assistant">
+<a href="https://github.com/krishnabalajikothapalli5308/AnnadataAI">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -250,7 +252,7 @@ An end-to-end conversational AI application integrating **Speech-to-Text, LLM-ba
 
 ---
 
-<details>
+<details open >
 
 <summary><b>🔧 Appliance Service Tracker</b></summary>
 
@@ -282,31 +284,29 @@ A full-stack web application for managing **appliance maintenance records, servi
 
 ---
 
-<details>
+<details >
 
-<summary><b>🌾 AnnadataAI — AI-Powered Smart Agriculture Assistant</b></summary>
-
-🌾 AnnadataAI — AI-Powered Smart Agriculture Assistant
+<summary><b>🎙️ Voice-Enabled Conversational AI Agent</b></summary>
 
 ### Overview
 
-An AI/ML-powered agriculture application focused on data-driven agricultural
-decision-making and potato price prediction using real agricultural market data.
+An end-to-end conversational AI application integrating **Speech-to-Text, LLM-based response generation, and Text-to-Speech** into a single voice-enabled pipeline.
 
 ### Tech Stack
 
-`Python` • `Pandas` • `Scikit-learn` • `Streamlit` • `Machine Learning`
+`Python` • `LLM APIs` • `Speech Processing` • `Text-to-Speech`
 
 ### Key Features
 
-- 📊 Agricultural market data processing
-- 🥔 Potato price prediction
-- 🤖 Machine learning prediction pipeline
-- 📈 Data-driven agricultural insights
-- 🌐 Interactive Streamlit application
+* 🎤 Speech-to-Text
+* 💬 LLM-based Responses
+* 🔊 Text-to-Speech
+* 🧠 Conversation Context Management
+* ⚡ Latency Control
+* 🛡️ API Error Recovery
 
 <p>
-<a href="https://github.com/krishnabalajikothapalli5308/AnnadataAI">
+<a href="https://github.com/krishnabalajikothapalli5308/voice-llm-assistant">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
