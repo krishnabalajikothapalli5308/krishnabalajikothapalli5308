@@ -286,25 +286,24 @@ A full-stack web application for managing **appliance maintenance records, servi
 
 <summary><b>🌾 AnnadataAI — AI-Powered Smart Agriculture Assistant</b></summary>
 
+🌾 AnnadataAI — AI-Powered Smart Agriculture Assistant
+
 ### Overview
 
-An AI-powered smart agriculture application designed to assist farmers with
-crop recommendations and agricultural decision support using machine learning,
-location-based information, and intelligent data processing.
+An AI/ML-powered agriculture application focused on data-driven agricultural
+decision-making and potato price prediction using real agricultural market data.
 
 ### Tech Stack
 
-`Python` • `Flutter` • `Flask` • `Machine Learning` • `REST APIs`
+`Python` • `Pandas` • `Scikit-learn` • `Streamlit` • `Machine Learning`
 
 ### Key Features
 
-- 🌱 Crop Recommendation
-- 🤖 AI/ML-Based Agricultural Assistance
-- 📍 Location-Based Information
-- 🌦️ Weather Integration
-- 🎤 Voice-Based Interaction
-- 📄 Agricultural Report Processing
-- 📊 Data-Driven Decision Support
+- 📊 Agricultural market data processing
+- 🥔 Potato price prediction
+- 🤖 Machine learning prediction pipeline
+- 📈 Data-driven agricultural insights
+- 🌐 Interactive Streamlit application
 
 <p>
 <a href="https://github.com/krishnabalajikothapalli5308/AnnadataAI">
