@@ -188,28 +188,6 @@ Through internships and projects, I've gained hands-on experience with **Python,
 
 ---
 
-# 📈 Currently Learning
-
-| Area                         | Status |
-| ---------------------------- | :----: |
-| Data Structures & Algorithms |   🟢   |
-| Backend Engineering          |   🟢   |
-| Full Stack Development       |   🟢   |
-| Machine Learning             |   🟢   |
-| System Design                |   🟡   |
-| Competitive Programming      |   🟡   |
-
-> 🟢 Active • 🟡 Learning
-
----
-
-<p align="center">
-
-<i>Learning continuously, building consistently, and growing through real-world engineering.</i>
-
-</p>
-
----
 
 # 🚀 Featured Projects
 
@@ -342,17 +320,7 @@ Browser-based cryptography application implementing **10 cryptographic algorithm
 </a>
 </p>
 
-</details>
-
----
-
-## 🌐 Web Development
-
-| Project                       | Technology                          |
-| ----------------------------- | ----------------------------------- |
-| **Appliance Service Tracker** | Python • Flask • MySQL • JavaScript |
-| **C&NS Cipher Suite**         | React • JavaScript                  |
-| **Voice-Enabled AI Agent**    | Python • LLM APIs                   |
+</details>                   |
 
 ---
 
