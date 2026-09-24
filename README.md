@@ -517,11 +517,26 @@ Developed experience in:
 </p>
 
 ---
-
-# 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github.com/krishnabalajikothapalli5308/krishnabalajikothapalli5308/raw/refs/heads/output/github-contribution-grid-snake.svg" alt="github contribution snake">
+  <sub>Building consistently. One contribution at a time.</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github.com/krishnabalajikothapalli5308/krishnabalajikothapalli5308/raw/refs/heads/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="95%"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <sub>GitHub contribution activity • Updated automatically</sub>
 </p>
 
 ---
