@@ -220,6 +220,11 @@ decision-making and potato price prediction using real agricultural market data.
 - 📈 Data-driven agricultural insights
 - 🌐 Interactive Streamlit application
 
+
+## 🚀 Live Demo
+
+👉 https://annadataaiap.streamlit.app/
+
 <p>
 <a href="https://github.com/krishnabalajikothapalli5308/AnnadataAI">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
